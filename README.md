@@ -22,8 +22,8 @@ A minimal starter template for building React applications with TypeScript, Tail
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/react-ts-tailwind-router-starter.git
-   cd react-ts-tailwind-router-starter
+   git clone https://github.com/monupanwar1/react_starter-code.git
+   cd react_starter-code
    ```
 
 2. Install dependencies:
